@@ -2,3 +2,5 @@ cafe
 açucar
 arroz
 feijão
+macarrão
+sal
